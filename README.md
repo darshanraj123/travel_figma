@@ -29,7 +29,7 @@ The content and layout are optimized for mobile usability and emotional appeal.
 ## Figma File
 
 You can view the full design prototype here:  
-[View Figma Design](https://www.figma.com/design/KDl0AN0scbQVpEWkOqH3GJ/Travel_App?t=ONoDBUTeBoz81YNS-1)
+[View Figma Design](https://www.figma.com/proto/KDl0AN0scbQVpEWkOqH3GJ/Travel_App?node-id=0-1&t=RSxs2DGe6yYXmzhq-1)
 
 
 
